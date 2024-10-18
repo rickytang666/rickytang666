@@ -1,4 +1,4 @@
-## Hi there, my name is Ricky Tang 👋
+## Hello, my name is Ricky Tang 👋
 
 <!--
 **rickytang666/rickytang666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
