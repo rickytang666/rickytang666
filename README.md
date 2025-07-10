@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 - 🎓 Incoming Software Engineering Freshman at **University of Waterloo**.
-- 🌱 I’m currently learning full stack development.
+- 🌱 Being quite new in programming, I’m currently learning full stack development.
 - 🔭 I’m potentially working on my personal website.
 - 🚀 Open to internships, collabs, or cool side projects  
 
