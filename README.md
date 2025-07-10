@@ -69,7 +69,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=10&theme=transparent)](https://github.com/rickytang666/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
 
 ---
 
