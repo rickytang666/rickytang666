@@ -30,7 +30,7 @@
 
 ## ⚒️ Tech Skills
 
-### Programming Languages
+#### Programming Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
-### Web Development Tools/Frameworks
+#### Web Development Tools/Frameworks
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
-### Other Tools/Technologies
+#### Other Tools/Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -60,6 +60,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo"  />
 </div>
 
 ---
