@@ -69,6 +69,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent)
 
+![](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
 
 ---
