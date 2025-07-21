@@ -33,8 +33,8 @@
 #### Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
@@ -45,8 +45,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
