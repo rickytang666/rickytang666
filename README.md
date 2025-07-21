@@ -32,21 +32,36 @@
 
 #### Programming Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+</p>
 
 #### Web Development Tools/Frameworks
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+</p>
 
 #### Other Tools/Technologies
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />
+  <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo" />
+</p>
 
 ---
 
