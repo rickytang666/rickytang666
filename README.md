@@ -33,34 +33,19 @@
 #### Programming Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
 </div>
 
 #### Web Development Tools/Frameworks
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
 </div>
 
 #### Other Tools/Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" style="margin-right: 10px;" />
-  <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo" />
 </div>
 
 ---
