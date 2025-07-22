@@ -55,6 +55,7 @@
 #### Other Tools/Technologies
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
