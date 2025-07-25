@@ -50,6 +50,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui logo" />
 </p>
 
 #### Other Tools/Technologies
