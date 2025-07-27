@@ -33,36 +33,37 @@
 #### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
 </p>
 
 #### Web Development Tools/Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui" />
 </p>
 
 #### Other Tools/Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />
-  <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas logo" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex" />
+  <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas" />
 </p>
 
 ---
