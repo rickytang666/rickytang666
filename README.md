@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 👋 Hello, my name is Ricky Tang 
+## 👋 Hello, my name is [Ricky Tang]([url](https://www.rickyt.tech/)) 
 ### 💻 Software Engineering @ University of Waterloo  
 
 </div>
@@ -12,7 +12,7 @@
 ## 🧠 About Me
 - 🎓 Incoming Software Engineering Freshman at **University of Waterloo**.
 - 🌱 Being quite new in programming, I’m currently learning full stack development.
-- 🔭 I’m potentially working on my personal website.
+- 🔭 I’m also working on my [personal website]([url](https://www.rickyt.tech/)) at present.
 - 🚀 Open to internships, collabs, or cool side projects  
 
 <!--
@@ -73,7 +73,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent)
 
-![](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&hide_border=false)
+![Github streaks](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
 
@@ -83,5 +83,8 @@
 Feel free to reach out, collaborate, or just say hi!
 I'm always up for cool side projects and tech chats.
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricky-tang-04a16a2a2/)
+[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.rickyt.tech/)
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricky-tang-dev/)
+
 [![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail)](mailto:tangricky001@gmail.com)
