@@ -49,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui" />
