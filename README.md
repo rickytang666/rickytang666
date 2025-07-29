@@ -83,12 +83,6 @@
 Feel free to reach out, collaborate, or just say hi!
 I'm always up for cool side projects and tech chats.
 
-<a href="https://www.rickyt.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
-</a>
-<a href="https://www.linkedin.com/in/ricky-tang-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-</a>
-<a href="mailto:tangricky001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail" alt="Email Badge">
-</a>
+[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.rickyt.tech/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricky-tang-dev/)
+[![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail)](mailto:tangricky001@gmail.com)
