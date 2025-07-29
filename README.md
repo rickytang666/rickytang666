@@ -2,8 +2,8 @@
 
 <div align="center">
 
-## 👋 Hello, my name is [Ricky Tang](https://www.rickyt.tech/){:target="_blank"} 
-### 💻 Software Engineering @ University of Waterloo  
+## 👋 Hello, my name is <a href="https://www.rickyt.tech/" target="_blank">Ricky Tang</a>  
+### 💻 Software Engineering @ University of Waterloo 
 
 </div>
 
@@ -12,7 +12,7 @@
 ## 🧠 About Me
 - 🎓 Incoming Software Engineering Freshman at **University of Waterloo**.
 - 🌱 Being quite new in programming, I’m currently learning full stack development.
-- 🔭 I’m also working on my [personal website](https://github.com/rickytang666/rickytang-website){:target="_blank"} at present.
+- 🔭 I’m also working on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
 - 🚀 Open to internships, collabs, or cool side projects  
 
 <!--
@@ -83,6 +83,12 @@
 Feel free to reach out, collaborate, or just say hi!
 I'm always up for cool side projects and tech chats.
 
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.rickyt.tech/){:target="_blank"}
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricky-tang-dev/){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail)](mailto:tangricky001@gmail.com){:target="_blank"}
+<a href="https://www.rickyt.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+</a>
+<a href="https://www.linkedin.com/in/ricky-tang-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
+<a href="mailto:tangricky001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail" alt="Email Badge">
+</a>
