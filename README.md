@@ -32,41 +32,36 @@
 
 ## ⚒️ Tech Skills
 
-#### Programming Languages
+#### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
-  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40" alt="c++" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" height="40" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=processing&theme=dark" height="40" alt="processing" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" height="40" alt="javascript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="40" alt="typescript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40" alt="html5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40" alt="css3" />
 </p>
 
-#### Web Development Tools/Frameworks
+#### Tools/Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" height="40" alt="shadcn" />
-</p>
-
-#### Other Tools/Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" height="40" alt="react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" height="40" alt="nextjs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark" height="40" alt="express" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="40" alt="nodejs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="40" alt="postgresql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" height="40" alt="supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="40" alt="tailwind" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui&theme=dark" height="40" alt="daisyui" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&theme=dark" height="40" alt="shadcn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" height="40" alt="vercel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="40" alt="figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="40" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="40" alt="github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="40" alt="blender" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="40" alt="latex" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas" />
 </p>
 
