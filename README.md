@@ -2,18 +2,20 @@
 
 <div align="center">
 
-## 👋 Hello, my name is <a href="https://www.rickyt.tech/" target="_blank">Ricky Tang</a>  
-### 💻 Software Engineering @ University of Waterloo 
+## 👋 Hello, my name is <a href="https://www.rickyt.tech/" target="_blank">Ricky Tang</a>
+
+### 💻 Software Engineering @ University of Waterloo
 
 </div>
 
 ---
 
 ## 🧠 About Me
+
 - 🎓 Incoming Software Engineering Freshman at **University of Waterloo**.
 - 🌱 Being quite new in programming, I’m currently learning full stack development.
 - 🔭 I’m also working on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
-- 🚀 Open to internships, collabs, or cool side projects  
+- 🚀 Open to internships, collabs, or cool side projects
 
 <!--
 - 🔭 I’m currently working on ...
@@ -53,6 +55,7 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="40" alt="daisyui" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" height="40" alt="shadcn" />
 </p>
 
 #### Other Tools/Technologies
@@ -80,6 +83,7 @@
 ---
 
 ## 🤝 Let’s Connect
+
 Feel free to reach out, collaborate, or just say hi!
 I'm always up for cool side projects and tech chats.
 
