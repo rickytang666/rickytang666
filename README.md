@@ -42,6 +42,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="40" alt="typescript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40" alt="html5" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40" alt="css3" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="40" alt="latex" />
 </p>
 
 #### Tools/Technologies
@@ -61,7 +62,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="40" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="40" alt="github" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="40" alt="blender" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="40" alt="latex" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas" />
 </p>
 
