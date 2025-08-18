@@ -6,7 +6,7 @@
 
 ### 💻 Software Engineering @ University of Waterloo
 
-![Views Badge](https://komarev.com/ghpvc/?username=rickytang666&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-www.rickyt.tech-blue)](https://www.rickyt.tech)
+![Views Badge](https://komarev.com/ghpvc/?username=rickytang666&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-rickyt.tech-blue)](https://www.rickyt.tech)
 
 
 </div>
