@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineering student at the **University of Waterloo**.
-- 🌱 I’m currently full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI models integration.
+- 🌱 I’m currently learning full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI models integration.
 - 🔭 I’m also working on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
 - 🚀 Open to internships, collabs, or cool side projects
 
@@ -79,7 +79,7 @@
 
 ![Github streaks](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=10&theme=transparent)
 
 ---
 
