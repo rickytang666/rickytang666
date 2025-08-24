@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Incoming Software Engineering Freshman at **University of Waterloo**.
-- 🌱 Being quite new in programming, I’m currently learning full stack development.
+- 🎓 Software Engineering student at the **University of Waterloo**.
+- 🌱 I’m currently full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI models integration.
 - 🔭 I’m also working on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
 - 🚀 Open to internships, collabs, or cool side projects
 
@@ -66,6 +66,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="40" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="40" alt="cmake" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="40" alt="qt" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="40" alt="pandas" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="40" alt="blender" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas" />
 </p>
