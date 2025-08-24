@@ -8,7 +8,6 @@
 
 ![Views Badge](https://komarev.com/ghpvc/?username=rickytang666&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-rickyt.tech-blue)](https://www.rickyt.tech)
 
-
 </div>
 
 ---
@@ -64,6 +63,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="40" alt="figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="40" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="40" alt="github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="40" alt="huggingface" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="40" alt="cmake" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="40" alt="qt" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="40" alt="blender" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="40" alt="motion canvas" />
 </p>
