@@ -67,6 +67,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="35" alt="qt" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="35" alt="pandas" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&theme=dark" height="35" alt="googleanalytics" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="35" alt="blender" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="35" alt="motion canvas" />
 </p>
