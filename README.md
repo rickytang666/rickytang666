@@ -56,6 +56,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="35" alt="nodejs" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="35" alt="postgresql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" height="35" alt="supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="35" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="35" alt="tailwind" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui&theme=dark" height="35" alt="daisyui" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&theme=dark" height="35" alt="shadcn" />
@@ -80,7 +81,7 @@
 
 ![Github streaks](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=10&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=7&theme=transparent)
 
 ---
 
