@@ -45,6 +45,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="35" alt="html5" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="35" alt="css3" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="35" alt="latex" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="sql" />
 </p>
 
 #### Tools/Technologies
