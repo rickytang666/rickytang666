@@ -82,7 +82,7 @@
 
 ![Github streaks](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=7&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
 
 ---
 
