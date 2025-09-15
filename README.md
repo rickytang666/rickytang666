@@ -44,8 +44,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="35" alt="typescript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="35" alt="html5" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="35" alt="css3" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c" height="35" alt="c" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="35" alt="latex" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="sql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="32" alt="sql" />
 </p>
 
 #### Tools/Technologies
@@ -65,12 +66,13 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="35" alt="figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="35" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="35" alt="github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" height="35" alt="gitlab" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="35" alt="qt" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="35" alt="pandas" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&theme=dark" height="35" alt="googleanalytics" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=blender&theme=dark" height="35" alt="blender" />
+  <img src="https://images.ctfassets.net/ub38vssza5h3/7xS0t5I5x02i9CmxVAKSpU/9ccb1c9adf7f4b9ee2a95a9213123e7b/Icon_Center_Image_Artwork.svg" height="35" alt="lens studio" />
   <img src="https://avatars.githubusercontent.com/u/107069270?s=200&v=4" height="35" alt="motion canvas" />
 </p>
 
