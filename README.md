@@ -80,11 +80,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent&card_width=100px&border_radius=30&hide_title=false" height="130" alt="Ricky Tang's GitHub Stats" />
 
-![Github streaks](https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&border_radius=30" height="130" alt="Ricky Tang's GitHub Streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparen&border_radius=30&hide_title=false" height="300" alt="Ricky Tang's Top Languages" />
+</div>
 
 ---
 
