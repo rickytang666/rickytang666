@@ -87,7 +87,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparen&border_radius=30&hide_title=false" alt="Ricky Tang's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent&border_radius=30&hide_title=false" alt="Ricky Tang's Top Languages" />
 </div>
 
 ---
