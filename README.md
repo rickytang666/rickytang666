@@ -15,8 +15,8 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineering student at the **University of Waterloo**.
-- 🌱 I’m currently learning full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI models integration.
-- 🔭 I’m also working on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
+- 🌱 I’m currently learning full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI/ML.
+- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
 - 🚀 Open to internships, collabs, or cool side projects
 
 <!--
