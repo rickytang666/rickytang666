@@ -83,7 +83,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent&card_width=100px&border_radius=30&hide_title=false" alt="Ricky Tang's GitHub Stats" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rickytang666&theme=transparent&border_radius=30" alt="Ricky Tang's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rickytang666&theme=transparent&border_radius=30" alt="Ricky Tang's Github Streak" />
+
 </div>
 
 <div align="left">
