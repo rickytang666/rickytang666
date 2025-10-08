@@ -83,14 +83,14 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=transparent&card_width=100px&border_radius=30&hide_title=false" alt="Ricky Tang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickytang666&show_icons=true&theme=moltack&card_width=100px&border_radius=30&hide_title=false" alt="Ricky Tang's GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com/?user=rickytang666&theme=transparent&border_radius=30" alt="Ricky Tang's Github Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rickytang666&theme=moltack&border_radius=30" alt="Ricky Tang's Github Streak" />
 
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=transparent&border_radius=30&hide_title=false" alt="Ricky Tang's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickytang666&langs_count=8&theme=moltack&border_radius=30" alt="Ricky Tang's Top Languages" />
 </div>
 
 ---
