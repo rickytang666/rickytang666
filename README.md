@@ -15,9 +15,9 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineering student at the **University of Waterloo**.
-- 🌱 I’m currently learning full-stack development (Next.js + PostgreSQL/MongoDB), C++ Qt, and AI/ML.
+- 🌱 I’m current focusing full-stack development and AI/ML, dabbling mobile development as well.
 - 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
-- 🚀 Open to internships, collabs, or cool side projects
+- 🚀 Open to internships, collabs, or cool side projects.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -60,17 +60,15 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" height="35" alt="gcp" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="35" alt="postgresql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" height="35" alt="supabase" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="35" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" height="35" alt="firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="35" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="35" alt="tailwind" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui&theme=dark" height="35" alt="daisyui" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&theme=dark" height="35" alt="shadcn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" height="35" alt="vercel" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="35" alt="figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="35" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="35" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="35" alt="github" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" height="35" alt="gitlab" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" height="35" alt="vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="35" alt="qt" />
