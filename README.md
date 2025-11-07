@@ -70,6 +70,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" height="35" alt="gitlab" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" height="35" alt="vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="35" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="35" alt="qt" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="35" alt="pandas" />
