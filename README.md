@@ -55,6 +55,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark" height="35" alt="express" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="35" alt="nodejs" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="35" alt="fastapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark" height="35" alt="flask" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" height="35" alt="gcp" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="35" alt="postgresql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" height="35" alt="supabase" />
@@ -63,8 +64,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="35" alt="tailwind" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="35" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="35" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="35" alt="github" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" height="35" alt="gitlab" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="35" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
