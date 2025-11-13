@@ -45,8 +45,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="35" alt="css3" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c" height="35" alt="c" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=processing&theme=dark" height="35" alt="processing" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=dark" height="35" alt="latex" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="32" alt="sql" />
 </p>
 
 #### Tools/Technologies
@@ -63,12 +61,10 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" height="35" alt="firebase" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="35" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="35" alt="tailwind" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&theme=dark" height="35" alt="shadcn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="35" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="35" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="35" alt="github" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" height="35" alt="gitlab" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" height="35" alt="vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="35" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
