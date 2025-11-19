@@ -64,6 +64,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="35" alt="tailwind" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="35" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="35" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" height="35" alt="pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="35" alt="huggingface" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="35" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="35" alt="cmake" />
