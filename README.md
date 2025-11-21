@@ -15,8 +15,9 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineering student at the **University of Waterloo**.
-- 🌱 I’m current focusing full-stack development and AI/ML, dabbling mobile development as well.
-- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> at present.
+- 🛠️ Autonomy Software Developer at **WARG**.
+- 🌱 I’m currently focusing full-stack development and AI/ML, dabbling in computer vision and mobile development as well.
+- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> and trying new projects at present.
 - 🚀 Open to internships, collabs, or cool side projects.
 
 <!--
