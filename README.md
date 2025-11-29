@@ -2,11 +2,11 @@
 
 <div align="center">
 
-## 👋 Hello, my name is <a href="https://www.rickyt.tech/" target="_blank">Ricky Tang</a>
+## 👋 Hello, my name is <a href="https://www.rickytang.dev/" target="_blank">Ricky Tang</a>
 
 ### 💻 Software Engineering @ University of Waterloo
 
-![Views Badge](https://komarev.com/ghpvc/?username=rickytang666&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-rickyt.tech-blue)](https://www.rickyt.tech)
+![Views Badge](https://komarev.com/ghpvc/?username=rickytang666&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-rickytang.dev-blue)](https://www.rickytang.dev)
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🎓 Software Engineering student at the **University of Waterloo**.
 - 🛠️ Autonomy Software Developer at **WARG**.
 - 🌱 I’m currently focusing full-stack development and AI/ML, dabbling in computer vision and mobile development as well.
-- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang-website" target="_blank">personal website</a> and trying new projects at present.
+- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang.dev" target="_blank">personal website</a> and trying new projects at present.
 - 🚀 Open to internships, collabs, or cool side projects.
 
 <!--
