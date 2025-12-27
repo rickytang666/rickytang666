@@ -35,20 +35,11 @@
 
 ## ⚒️ Tech Skills
 
-#### Languages
+### Languages
 
-<p align="left" >
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="30" alt="c++" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" height="30" alt="python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" height="30" alt="javascript" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="30" alt="typescript" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="30" alt="html5" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="30" alt="css3" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c" height="30" alt="c" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=processing&theme=dark" height="30" alt="processing" />
-</p>
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![html5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white) ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![latex](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-#### Tools/Technologies
+### Tools/Technologies
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" height="30" alt="react" />
