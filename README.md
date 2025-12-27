@@ -39,35 +39,9 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![html5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white) ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![latex](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-### Tools/Technologies
+### Frameworks & Libraries
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" height="30" alt="react" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" height="30" alt="nextjs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark" height="30" alt="express" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="30" alt="nodejs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="30" alt="fastapi" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark" height="30" alt="flask" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" height="30" alt="gcp" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="30" alt="postgresql" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" height="30" alt="supabase" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" height="30" alt="firebase" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="30" alt="mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" height="30" alt="tailwind" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet&theme=dark" height="30" alt="leaflet" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="30" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="30" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" height="30" alt="pytorch" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="30" alt="huggingface" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="30" alt="opencv" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="30" alt="pandas" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="30" alt="jupyter" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" height="30" alt="numpy" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark" height="30" alt="scipy" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark" height="30" alt="cmake" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt&theme=dark" height="30" alt="qt" />
-  <img src="https://images.ctfassets.net/ub38vssza5h3/7xS0t5I5x02i9CmxVAKSpU/9ccb1c9adf7f4b9ee2a95a9213123e7b/Icon_Center_Image_Artwork.svg" height="30" alt="lens studio" />
-</p>
+![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![react native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![fastapi](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![flask](https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcn/ui&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scipy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 ---
 
