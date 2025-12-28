@@ -37,7 +37,7 @@
 
 ### Languages
 
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![html5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white) ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![latex](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![html5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white) ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![latex](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 ### Frameworks & Libraries
 
