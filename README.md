@@ -12,28 +12,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Software Engineering student at the **University of Waterloo**.
-- 🛠️ Autonomy Software Developer at **WARG**.
-- 🌱 I’m currently focusing full-stack development and AI/ML, dabbling in computer vision and mobile development as well.
-- 🔭 I’m continuing to work on my <a href="https://github.com/rickytang666/rickytang.dev" target="_blank">personal website</a> and trying new projects at present.
-- 🚀 Open to internships, collabs, or cool side projects.
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Engineering student at the **University of Waterloo**, incoming SWE intern at [Hamming AI (YC S24)](https://hamming.ai).
+- Engineering at [WAT.ai](https://watai.ca) x [Bindwell (YC W25)](https://bindwell.ai), [WARG](https://warg.ca), and [WATonomous](https://watonomous.ca).
+- Currently focusing on software with multi-agents and RAG, dabbling in devops, mobile development and computer vision as well.
+- I’m continuing on my <a href="https://github.com/rickytang666/rickytang.dev" target="_blank">personal website</a> and keeping up with new projects at present.
+- Open to internships, sick side projects, and hackathons!
 
 ---
 
-## ⚒️ Tech Skills
+## Tech Skills
 
 ### Languages
 
@@ -47,11 +36,11 @@
 
 ![supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![redis](https://img.shields.io/badge/Redis-DC382C?logo=redis&logoColor=white) ![sqlite](https://img.shields.io/badge/SQLite-003563?logo=sqlite&logoColor=white) ![sqlalchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![graphql](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![elevenlabs](https://img.shields.io/badge/Eleven_Labs-000000?logo=elevenlabs&logoColor=white) ![webrtc](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 
-![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![pytest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white) ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white) ![blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![aws](https://img.shields.io/badge/AWS-FF9900) ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![pytest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white) ![blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats-rickytang.vercel.app/api?username=rickytang666&show_icons=true&theme=one_dark_pro&hide_title=true&card_width=100px&border_radius=30&hide_border=true" width="360px" alt="github stats" />
@@ -66,9 +55,9 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
-Feel free to reach out, collaborate, or just say hi!
-I'm always up for cool side projects and tech chats.
+Feel free to reach out to me!
+I'm always down for side projects and tech chats.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-tang-dev/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rickytangdev@gmail.com)
+[Email](mailto:rickytangdev@gmail.com) - [Website](https://www.rickytang.dev/) - [LinkedIn](https://www.linkedin.com/in/ricky-tang-dev/) - [X (Twitter)](https://twitter.com/_rickytangdev) - [Resume](https://www.rickytang.dev/resume) - [Devpost](https://devpost.com/rickytang) - [Instagram](https://www.instagram.com/rickytang.dev/)
