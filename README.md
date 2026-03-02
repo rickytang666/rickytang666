@@ -60,4 +60,4 @@
 Feel free to reach out to me!
 I'm always down for side projects and tech chats.
 
-[Email](mailto:rickytangdev@gmail.com) - [Website](https://www.rickytang.dev/) - [LinkedIn](https://www.linkedin.com/in/ricky-tang-dev/) - [X (Twitter)](https://twitter.com/_rickytang) - [Resume](https://www.rickytang.dev/resume) - [Devpost](https://devpost.com/rickytang) - [Instagram](https://www.instagram.com/rickytang.dev/)
+[Email](mailto:rickytangdev@gmail.com) - [Website](https://www.rickytang.dev/) - [LinkedIn](https://www.linkedin.com/in/ricky-tang-dev/) - [X (Twitter)](https://twitter.com/_rickytang) - [Resume](https://www.rickytang.dev/resume) - [Devpost](https://devpost.com/rickytang) - [Bluesky](https://bsky.app/profile/rickytang.dev) - [Instagram](https://www.instagram.com/rickytang.dev/)
