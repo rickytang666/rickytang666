@@ -41,10 +41,9 @@
 ## GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-rickytang.vercel.app/api?username=rickytang666&show_icons=true&theme=one_dark_pro&hide_title=true&card_width=100px&border_radius=30&hide_border=true" width="360px" alt="github stats" />
+  <img src="https://github-readme-stats-rickytang.vercel.app/api?username=rickytang666&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_title=true&card_width=100px&border_radius=30&hide_border=true" width="360px" alt="github stats" />
 
   <img src="https://github-readme-streak-stats-rickytang.vercel.app/?user=rickytang666&theme=one-dark-pro&border_radius=30&hide_border=true" width="400px" alt="github streak" />
-
 </div>
 
 <div align="left">
