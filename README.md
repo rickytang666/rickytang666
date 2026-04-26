@@ -14,8 +14,7 @@
 
 - Software Engineering student at the **University of Waterloo**, incoming SWE intern at [Hamming AI (YC S24)](https://hamming.ai).
 - Engineering at [WAT.ai](https://watai.ca) x [Bindwell (YC W25)](https://bindwell.ai), [WARG](https://warg.ca), and [WATonomous](https://watonomous.ca).
-- Currently focusing on software with multi-agents and RAG, dabbling in devops, mobile development and computer vision as well.
-- I’m continuing on my <a href="https://github.com/rickytang666/rickytang.dev" target="_blank">personal website</a> and keeping up with new projects at present.
+- Currently _addicted_ to MCP, focusing on software with multi-agents and RAG, dabbling in devops and browser automations as well.
 - Open to internships, sick side projects, and hackathons!
 
 ---
@@ -54,7 +53,6 @@
 
 ## Let’s Connect
 
-Feel free to reach out to me!
-I'm always down for side projects and tech chats.
+Feel free to reach out to me! I'm always down for cool side projects and tech chats.
 
 [Email](mailto:rickytangdev@gmail.com) - [Website](https://www.rickytang.dev/) - [LinkedIn](https://www.linkedin.com/in/ricky-tang-dev/) - [X (Twitter)](https://twitter.com/_rickytang) - [Resume](https://www.rickytang.dev/resume) - [Book a call](https://cal.com/rickytang) - [Devpost](https://devpost.com/rickytang) - [Bluesky](https://bsky.app/profile/rickytang.dev) - [Instagram](https://www.instagram.com/rickytang.dev/)
