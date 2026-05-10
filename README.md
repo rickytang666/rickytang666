@@ -12,7 +12,7 @@
 
 ## About Me
 
-- Software Engineering student at **University of Waterloo**, incoming SWE intern at **[Hamming AI (YC S24)](https://hamming.ai)**.
+- SWE intern at **[Hamming AI (YC S24)](https://hamming.ai)**, building automated QA infra for voice agents at scale.
 - Engineering at [WAT.ai](https://watai.ca) x [Bindwell (YC W25)](https://bindwell.ai), [WARG](https://warg.ca), and [WATonomous](https://watonomous.ca).
 - Currently _addicted_ to MCP, focusing on software with multi-agents and RAG, dabbling in devops and browser automations as well.
 - Open to internships, sick side projects, and hackathons!
